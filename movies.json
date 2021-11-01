@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "617f9ec1df4900db1eec6322"
+  },
+  "Writer": "Chuck Palahniuko",
+  "Title": "Fight Club",
+  "franchise": null,
+  "Actors": [
+    "Brad Pitt",
+    "Edward Norton"
+  ],
+  "Year": 1999
+},{
+  "_id": {
+    "$oid": "617fa022df4900db1eec6323"
+  },
+  "Writer": "Quentin tarantino",
+  "franchise": null,
+  "Title": "Pulp Friction",
+  "Year": 1994,
+  "Actors": [
+    "John Travolta",
+    "Uma Thurman"
+  ]
+},{
+  "_id": {
+    "$oid": "617fa159df4900db1eec6324"
+  },
+  "Actors": [
+    "Brad Pitt",
+    "Di Kruger Eli Roth"
+  ],
+  "Writer": " Quentin Tarantino",
+  "franchise": null,
+  "Title": " Inglorious Basterds",
+  "Year": 2009
+},{
+  "_id": {
+    "$oid": "617face493e028f7c9e6e8cb"
+  },
+  "Title": "The Hobbit: An Unexpected Journey",
+  "Writer": "J.R.R. Tolkein",
+  "Year": 2012,
+  "franchise": "The Hobbit"
+},{
+  "_id": {
+    "$oid": "617fadb693e028f7c9e6e8cc"
+  },
+  "Title": "The Hobbit: The Desolation of Smaug",
+  "Writer": "J.R.R. Tolkein",
+  "Year": 2013,
+  "franchise": "The Hobbit"
+},{
+  "_id": {
+    "$oid": "617fae2793e028f7c9e6e8cd"
+  },
+  "Title": "The Hobbit: The Battle of the Five Armies",
+  "Writer": " J.R.R. Tolkein",
+  "Year": 2012,
+  "franchise": "The Hobbit synopsis : Bilbo and Company are forced to engage in a war against an array of combatants and keep the Lonely Mountain from falling into the hands of a rising darkness."
+},{
+  "_id": {
+    "$oid": "617faea993e028f7c9e6e8ce"
+  },
+  "Title": "Pee Wee Harman's Big Advanture"
+},{
+  "_id": {
+    "$oid": "617faef793e028f7c9e6e8cf"
+  },
+  "Title": "Avatar"
+}]
